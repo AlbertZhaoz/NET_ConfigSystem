@@ -1,0 +1,22 @@
+{
+  "name": "albertzhao",
+  "MailBodyEntity": {
+    "MailTextBody": "Hi everyone,this mail is a test mail from albertzhao.",
+    "MailBodyType": "Plain",
+    "MailFileType": null,
+    "MailFileSubType": null,
+    "MailFilePath": null,
+    "Recipients": [ "2506747342@qq.com"],
+    "Cc": null,
+    "Sender": "AlbertZhao",
+    "SenderAddress": "szdxzhy@outlook.com",
+    "Subject": "TestMailKit",
+    "Body": "xxxx"
+  },
+  "SendServerConfigurationEntity": {
+    "SmtpHost": "smtp-mail.outlook.com",
+    "SmtpPort": 587,
+    "IsSsl": true,
+    "MailEncoding": null
+  }
+}
